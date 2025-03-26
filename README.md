@@ -1,16 +1,8 @@
 # product_cart_app
+![Screenshot 2025-03-26 174318](https://github.com/user-attachments/assets/f782f83c-7caa-412c-a315-819f49dd573a)
 
-A new Flutter project.
+![Screenshot 2025-03-26 174402](https://github.com/user-attachments/assets/e9cc5503-cdba-4dfe-bf82-7f400d9b605d)
 
-## Getting Started
+![Screenshot 2025-03-26 174807](https://github.com/user-attachments/assets/5994cd8e-8130-49a7-8b90-53bdf3eca83b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-03-26 174912](https://github.com/user-attachments/assets/392fcdf7-2710-4745-966b-2cb8287ba96d)
